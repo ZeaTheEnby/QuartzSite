@@ -4,7 +4,7 @@ aliases:
 tags:
 Created By:
 Parents:
-draft: true
+draft: false
 Description:
 Image Banner:
 ---
