@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: zeatheenby.github.io
+  baseUrl: zeatheenby.github.io/QuartzSite/
   ignorePatterns:
     - private
     - templates
