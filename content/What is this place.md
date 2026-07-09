@@ -12,6 +12,7 @@ Image Banner:
 You may be wondering what on earth is this place and what is it for.
 Well this is my attempt to make a website to share and showcase me and my friends creativity.
 
+Testing new ideas
 
 
 
