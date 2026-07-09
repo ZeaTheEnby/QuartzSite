@@ -1,8 +1,10 @@
 views:
   - type: list
-    name: Table
+    name: Main
     filters:
       and:
         - Parents.contains(link("Maps of Content"))
     order:
       - file.name
+      - Description
+    indentProperties: false
