@@ -1,0 +1,8 @@
+views:
+  - type: list
+    name: Table
+    filters:
+      and:
+        - Parents.contains(link("Maps of Content"))
+    order:
+      - file.name
