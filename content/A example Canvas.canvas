@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"9205d6e2b89ad841","x":-320,"y":-620,"width":400,"height":340,"color":"2","type":"group","label":"A group of things"},
+		{"id":"23e0b117eac98aec","type":"text","text":"Testing","x":-455,"y":-140,"width":250,"height":90,"color":"5"},
+		{"id":"4923dba47890a8f2","type":"text","text":"Another test for the canvas","x":-205,"y":60,"width":250,"height":80},
+		{"id":"a2eae07ac48dfe3d","type":"text","text":"Interesting","x":20,"y":-120,"width":250,"height":70},
+		{"id":"2219024dc773ee8f","type":"file","file":"TTRPG.md","x":360,"y":-380,"width":507,"height":520},
+		{"id":"36c7d374f74bc525","type":"text","text":"Interesting","x":-300,"y":-600,"width":250,"height":70},
+		{"id":"deabc04639a67132","type":"text","text":"Interesting","x":-300,"y":-500,"width":250,"height":70},
+		{"id":"70bb86e66488d10a","type":"text","text":"Interesting","x":-300,"y":-400,"width":250,"height":70}
+	],
+	"edges":[
+		{"id":"fae2be0c7e0cb61b","fromNode":"23e0b117eac98aec","fromSide":"bottom","toNode":"4923dba47890a8f2","toSide":"top"},
+		{"id":"a3b968158c5bd3cf","fromNode":"23e0b117eac98aec","fromSide":"right","toNode":"a2eae07ac48dfe3d","toSide":"left"},
+		{"id":"d8d793e7eb28680f","fromNode":"a2eae07ac48dfe3d","fromSide":"right","toNode":"2219024dc773ee8f","toSide":"left"}
+	]
+}
